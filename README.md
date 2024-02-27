@@ -1,4 +1,4 @@
-# Desafio VainuBank 💰🏦
+# Desafio VaiNuBank 💰🏦
 
 Bem-vindo ao VainuBank! Este é um simples sistema de gerenciamento de contas bancárias em Java.
 
